@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **- .NET 8 + React, UI/UX Design**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-psi-ruddy-72.vercel.app/](https://my-portfolio-psi-ruddy-72.vercel.app/)
-
 - 💬 Ask me about **React, JavaScript, MongoDB, MySQL, Microsoft SQL Server, .NET**
 
-- 📫 How to reach me **lydat1502@gmail.com**
+- 📫 How to reach me **`lydat1502@gmail.com`**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-psi-ruddy-72.vercel.app/](https://my-portfolio-psi-ruddy-72.vercel.app/)
+
+- 🏆 LeetCode: [https://leetcode.com/u/your-username/](https://leetcode.com/u/LyDat2005/)
 
 - ⚡ Fun fact **Dark mode saves my eyes**
 
