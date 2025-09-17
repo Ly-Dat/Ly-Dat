@@ -3,10 +3,15 @@
 
 ---
 
-- 🌱 I’m currently learning **.NET 8 + React, UI/UX Design**  
-- 💬 Ask me about **React, JavaScript, HTML, CSS, MongoDB, MySQL, Microsoft SQL Server, .NET development**  
-- 📫 How to reach me **lydat1502@gmail.com**  
-- ⚡ Fun fact **Dark mode saves my eyes**  
+- 🌱 I’m currently learning **- .NET 8 + React, UI/UX Design**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-psi-ruddy-72.vercel.app/](https://my-portfolio-psi-ruddy-72.vercel.app/)
+
+- 💬 Ask me about **React, JavaScript, MongoDB, MySQL, Microsoft SQL Server, .NET**
+
+- 📫 How to reach me **lydat1502@gmail.com**
+
+- ⚡ Fun fact **Dark mode saves my eyes**
 
 ---
 
